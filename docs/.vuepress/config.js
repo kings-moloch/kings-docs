@@ -1,14 +1,14 @@
 module.exports = {
-  title: "👾 The LAO - FAQs", // 🎉
-  description: "The LAO Documentation",
+  title: "👾 Kings' Azit DAO - FAQs", // 🎉
+  description: "Kings' Azit DAO Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html
   themeConfig: {
     /* default-prefers-color-scheme theme options */
     // by default, this theme uses the user's browser preferences to set either
-    // light for dark.  I overrode it to always be dark for now to match LAO stylez.
+    // light for dark.  I overrode it to always be dark for now to match Kings stylez.
     defaultTheme: "dark",
-    logo: "/lao-logo-animated-medium.gif",
+    logo: "/logo_azit.svg",
     /* standard vuepress themeConfig options */
     repo: "openlawteam/lao-docs",
     docsDir: "docs",

@@ -2,15 +2,15 @@
 
 ## How are voting rights determined?
 
-Voting rights will be based on the total number of LAO Units that each member holds for any relevant vote posed to members.
+Voting rights will be based on the total number of Kings Units that each member holds for any relevant vote posed to members.
 
 ## How do members vote?
 
-Members will be prompted to vote via The LAO DApp (or, over time, other online services) at various points during the lifecycle of The LAO, including to evaluate investment decisions, weigh-in on the structure and form of The LAO, and/or other strategic decisions related to The LAO.
+Members will be prompted to vote via Kings' Azit DAO DApp (or, over time, other online services) at various points during the lifecycle of Kings' Azit DAO, including to evaluate investment decisions, weigh-in on the structure and form of Kings' Azit DAO, and/or other strategic decisions related to Kings' Azit DAO.
 
 Voting is primarily facilitated by blockchain-based smart contracts and all voting records will be searchable via the DApp and recorded to the Ethereum blockchain.
 
-For governance-related decisions, The LAO has implemented Snapshot-like voting (which is gasless) and also has implemented processes to make investment decisions using through gasless voting tools available via the Dapp.
+For governance-related decisions, Kings' Azit DAO has implemented Snapshot-like voting (which is gasless) and also has implemented processes to make investment decisions using through gasless voting tools available via the Dapp.
 
 ## Can a member transfer its voting rights for purposes of making investment decisions?
 

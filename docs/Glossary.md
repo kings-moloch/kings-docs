@@ -26,11 +26,11 @@ Ethereum is a global, open-source platform for decentralized organizations.
 
 ## Operating Agreement
 
-The rights and obligations of members of The LAO are defined in a legal document formally referred to as a Limited Liability Company Agreement or an Operating Agreement.
+The rights and obligations of members of Kings' Azit DAO are defined in a legal document formally referred to as a Limited Liability Company Agreement or an Operating Agreement.
 
 ## Rage Quitting
 
-"Rage quitting" is a function built into The LAO's smart contracts that allows a member to take its unallocated capital contribution and leave The LAO.
+"Rage quitting" is a function built into Kings' Azit DAO's smart contracts that allows a member to take its unallocated capital contribution and leave Kings' Azit DAO.
 
 ## Smart Contract
 
@@ -38,7 +38,7 @@ A smart contract is a computer program written to a blockchain which defines the
 
 ## Subscription Agreement
 
-When members join The LAO, they will subscribe to membership interests in The LAO represented as LAO Units.
+When members join Kings' Azit DAO, they will subscribe to membership interests in Kings' Azit DAO represented as Kings Units.
 
 ## Wallet
 

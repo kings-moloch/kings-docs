@@ -1,7 +1,7 @@
 {
-  "name": "lao-docs",
+  "name": "kings-docs",
   "version": "0.1.0",
-  "description": "LAO Documentation",
+  "description": "Kings' Azit DAO Documentation",
   "private": true,
   "main": "index.js",
   "scripts": {

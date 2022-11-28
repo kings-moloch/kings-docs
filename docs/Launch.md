@@ -1,9 +1,9 @@
 # Launch
 
-## When will The LAO launch?
+## When will Kings' Azit DAO launch?
 
-The LAO already launched on April 28, 2020 at 12:00p (EST), but continues to accept contributions until all membership units are sold.
+Kings' Azit DAO already launched on April 28, 2020 at 12:00p (EST), but continues to accept contributions until all membership units are sold.
 
-## When will The LAO accept applications?
+## When will Kings' Azit DAO accept applications?
 
-The LAO will accept projects prior to the launch date. You can begin the application process at [The LAO DApp](https://www.thelao.io).
+Kings' Azit DAO will accept projects prior to the launch date. You can begin the application process at [Kings' Azit DAO DApp](https://www.kingsaz.it).

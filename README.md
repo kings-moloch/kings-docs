@@ -1,7 +1,7 @@
 # Kings' Azit DAO Docs
 
-![Linters status](https://github.com/openlawteam/lao-docs/workflows/Format/badge.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd1a66b-ca28-43ee-978d-0a95e7fefff7/deploy-status)](https://app.netlify.com/sites/thelao-docs/deploys)
+![Linters status](https://github.com/kings-moloch/kings-docs/workflows/Format/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd1a66b-ca28-43ee-978d-0a95e7fefff7/deploy-status)](https://app.netlify.com/sites/kings-docs/deploys)
 
 ## Editing
 

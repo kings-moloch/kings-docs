@@ -1,5 +1,5 @@
 module.exports = {
-  title: "👾 Kings' Azit DAO - FAQs", // 🎉
+  title: "Kings' Azit DAO - DOCS", // 🎉
   description: "Kings' Azit DAO Documentation",
   theme: "default-prefers-color-scheme",
   // for theme configuration, see https://vuepress.vuejs.org/theme/default-theme-config.html
@@ -10,7 +10,7 @@ module.exports = {
     defaultTheme: "dark",
     logo: "/logo_azit.svg",
     /* standard vuepress themeConfig options */
-    repo: "openlawteam/lao-docs",
+    repo: "kings-moloch/kings-docs",
     docsDir: "docs",
     editLinks: true,
     // custom text for edit link. Defaults to "Edit this page"

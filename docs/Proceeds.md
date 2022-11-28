@@ -16,7 +16,7 @@ If a member [rage quits](/RageQuitting), the member will be entitled to receive 
 
 Please note, that prior to proceed distribution, members must provide a copy of the applicable Form W-9 or Form W-8, when requested by the service provider.
 
-## Will proceeds be paid in Ether, Dai, or cash?
+## Will proceeds be paid in USDC, Ether, Dai, or cash?
 
 Members have the right to determine how proceeds will be paid.
 
@@ -26,4 +26,4 @@ Members acting by a majority vote may reinvest or retain for investment any proc
 
 ## If a member votes against a proposed deal, but does not “rage quit,” will he or she still benefit from possible future profits? In other words, are all projects’ possible future returns shared equally amongst the members?
 
-Yes, the member would benefit from the future profits even if the member voted against the investment.  In effect, you're agreeing to the will of the voting members and if you don't like the decision you have the right to rage quit all or part of your undeployed Ether.
+Yes, the member would benefit from the future profits even if the member voted against the investment.  In effect, you're agreeing to the will of the voting members and if you don't like the decision you have the right to rage quit all or part of your undeployed USDC.

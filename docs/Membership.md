@@ -4,7 +4,7 @@
 
 Membership in Kings' Azit DAO is currently limited to accredited investors, as defined under U.S. law. The total number of members will be capped at a maximum of 99 members.
 
-Members have the opportunity to contribute Ether to Kings' Azit DAO by purchasing units representing an ownership in Kings' Azit DAO ("Kings Units"). The members reserve the right to create a Kings Token to represent Kings Units via a Member votes.
+Members have the opportunity to contribute USDC to Kings' Azit DAO by purchasing units representing an ownership in Kings' Azit DAO ("Kings Units"). The members reserve the right to create a Kings Token to represent Kings Units via a Member votes.
 
 Units are sold in blocks. Each block of Kings Units (or 10,000 units) is currently being sold for 10,000 USDC and provide a member with 0.2% of the voting rights in Kings' Azit DAO, along with 0.2% pro rata rights to any proceeds from investments. The per unit number to buy units into Kings' Azit DAO will increase incrementally after every investment Kings' Azit DAO makes.
 
@@ -32,7 +32,7 @@ In the abundance of caution, the limits in membership and accreditation status f
 
 ## Are there any other requirements needed to become a member?
 
-To contribute Ether to Kings' Azit DAO, members will need to go through accredited investor, anti-money laundering ("AML"), Know Your Customer ("KYC"), and Office of Foreign Assets Control ("OFAC") checks as defined under U.S. law and as discussed further below. A joining member will need to deposit a sufficient amount of Ether from the member's Ethereum address in order to complete the membership process.
+To contribute USDC to Kings' Azit DAO, members will need to go through accredited investor, anti-money laundering ("AML"), Know Your Customer ("KYC"), and Office of Foreign Assets Control ("OFAC") checks as defined under U.S. law and as discussed further below. A joining member will need to deposit a sufficient amount of USDC from the member's Ethereum address in order to complete the membership process.
 
 A member will also need to submit sufficient information to verify the potential member's identity for AML, KYC, and OFAC checks, including:
 
@@ -57,6 +57,6 @@ In order to register and validate members, a potential member will need to suppl
 ==Post Contribution==
 Once a Member makes a contribution, Kings' Azit DAO's underlying smart contracts will need to whitelist the Member's applicable Ethereum address. The process for validating and whitelisting the Member's Ethereum address will be done in order of contribution and will take at least 14 total days to complete. The process takes 7 days to process the proposal and another 7 days to provide Members the right to "rage quit" if they so choose.
 
-## Why is there a fixed amount of Ether upon submitting an application?
+## Why is there a fixed amount of USDC upon submitting an application?
 
-If everyone submits a different amount of Ether, the interests in Kings' Azit DAO would have variable pricing.  If a member "rage quits" then that member could conceivably get back more Ether than he or she contributed.
+If everyone submits a different amount of USDC, the interests in Kings' Azit DAO would have variable pricing.  If a member "rage quits" then that member could conceivably get back more USDC than he or she contributed.

@@ -1,8 +1,5 @@
 # Kings' Azit DAO Docs
 
-![Linters status](https://github.com/kings-moloch/kings-docs/workflows/Format/badge.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd1a66b-ca28-43ee-978d-0a95e7fefff7/deploy-status)](https://app.netlify.com/sites/kings-docs/deploys)
-
 ## Editing
 
 ### File structure
@@ -22,14 +19,14 @@ Uses standard [CommonMark] markdown spec formatting, with default VuePress
 If you wish to be able to see changes reflected live, you can run a local dev
 server. Requires a NodeJS environment on your machine.
 
-> Run `npm ci` to quickly install all necessary dependencies. You can then run
-> `npm run docs:dev` to launch a local live-reload instance of the docs. Changes
+> Run `yarn` to quickly install all necessary dependencies. You can then run
+> `yarn run docs:dev` to launch a local live-reload instance of the docs. Changes
 > will be reflected as soon as you save the source file.
 
-You can also run `npm run docs:build` if you ever want to manually build the
+You can also run `yarn run docs:build` if you ever want to manually build the
 static output. This is normally handled on the CI server automatically. For
 consistent code formatting we use [Prettier], if you wish you can format all
-files prior to a commit via `npm run format`.
+files prior to a commit via `yarn run format`.
 
 [prettier]: https://prettier.io
 
@@ -49,8 +46,7 @@ Images will then be automatically optimized for filesize in CI! :-)
 
 ## Deployment
 
-Deployment is handled automatically via Netlify. :tada: Any needed
-customizations can be made in the `netlify.toml` file.
+Deployment is handled automatically via Vercel. :tada:
 
 ## License
 

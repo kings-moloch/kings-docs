@@ -2,38 +2,15 @@
 
 ## How is Kings' Azit DAO structured?
 
-Kings' Azit DAO is organized as a Delaware limited liability company.
+Kings' Azit DAO is organized as a Cayman Foundation Company.
 
-The rights and obligations of Kings' Azit DAO members are set forth in an operating agreement (which will be provided when you are verified to contribute to Kings' Azit DAO) and are supplemented by the Delaware Limited Liability Company Act. **YOU SHOULD RETAIN YOUR OWN COUNSEL FOR PURPOSES OF EVALUATING WHETHER TO JOIN KINGS' AZIT DAO AS A MEMBER.**
+Cayman Foundation Companies take the form of a traditional company limited by shares or guarantee but with certain characteristics of a civil law foundation. A Cayman Foundation Company is a body corporate with a legal personality distinct from its directors and other connected persons. As it does not normally have a shareholder or member Cayman Foundation Companies are considered effectively “ownerless”. Day-to-day management of a Cayman Foundation Company, including the investment of the foundation company’s assets, is conducted by its board of directors in accordance with its memorandum and articles of association.
 
-At its core, Kings' Azit DAO will be member-managed and rely on a DApp and related smart contracts to facilitate investments into projects using digital assets.
+## Why have a legal entity?
 
-Unlike The DAO, which was arguably an implied partnership that provided members with limited legal protection, Kings' Azit DAO's operating agreement expressly limits the members' liability and limits any fiduciary obligations amongst members, in each case, to the extent permitted by applicable law.
+Having a legal entity that represents the DAO in the "real world" is valuable for a number of reasons:
 
-Kings' Azit DAO will rely on a service provider (initially, OpenLaw) to facilitate various administrative functions on behalf of the members, including preparing and sending annual K-1 tax forms, updating and maintaining the DApp, validating information related to projects selected for investment, and handling other interactions that may come up during the lifetime of Kings' Azit DAO (e.g., receiving the proceeds from the sale of securities in fiat and converting them to a digital asset for distribution to members). For these services, the service provider will receive a fee, pursuant to a schedule outlined [here](/FeesExpensesCarry).
-
-Kings' Azit DAO's operating agreement was prepared by OpenLaw's outside counsel.
-
-## Will members enjoy limited liability?
-
-As set forth in the operating agreement, and except as otherwise provided under Delaware law, no member (or former member) of Kings' Azit DAO will be liable for the obligations of Kings' Azit DAO for any amounts in excess of the amount of the member's contributions to Kings' Azit DAO, plus:
-
-- the member's share of the undistributed profits of Kings' Azit DAO, if any; and
-
-- any amounts distributed by Kings' Azit DAO to such member.
-
-## What are the fiduciary obligations between members?
-
-To the fullest extent permitted by applicable law, members shall not have any fiduciary duty to Kings' Azit DAO or any other member. Under the operating agreement, members agree to interact in good faith and to engage in fair dealing.
-
-## Can members make separate investments in or provide services to projects that receive investments from Kings' Azit DAO?
-
-Yes.
-
-## Can members vary the operating agreement or the ways in which Kings' Azit DAO operates?
-
-The terms and provisions of the operating agreement may be amended if 50% or more of Kings' Azit DAO members, or their delegates, vote to approve the amendment. Voting will be based on the number of Kings Units held by the members at the time of the vote.
-
-## What are the tax issues with Kings' Azit DAO?
-
-Each member of Kings' Azit DAO must rely on the member's own tax and legal representatives as to the tax consequences of joining Kings' Azit DAO or making investments through Kings' Azit DAO.
+- It provides limited liability to DAO participants for the actions of the DAO. Without a legal entity, participants may be individually held liable for anything the DAO as a whole does.
+- It is capable of complying with taxation requirements - without a legal entity, DAO participants may be held liable for a proportion of the DAO's income, even if they are not able to access these funds.
+- It is capable of entering into contracts with other "real world" entities, of holding assets (including IP rights), and so forth.
+  For a more detailed discussion of this topic, see [this excellent blog post](https://mirror.xyz/0x954888B7a5C6736F4955dF18B556D8328FD02f61/5K9llACK4tzu5WHL68CM3bBsmSleL_XxJ2kRGYnwp7A).

@@ -20,6 +20,7 @@ module.exports = {
     // sidebar configuration: https://vuepress.vuejs.org/theme/default-theme-config.html#sidebar
     sidebar: [
       "/",
+      "Context",
       "Organization",
       "Membership",
       "AccreditationProcess",
